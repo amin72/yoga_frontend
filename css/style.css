@@ -160,7 +160,7 @@ input[type=submit].search-block__submit{border:none;outline:none;background: #eb
 .headline-wrap--section{max-width:600px;display:block;margin:0 auto;}
 
 /* ------ Section Backgrounds ------ */
-.section__bg--intro{background-image:url('../img/intro.jpg');background-position-y: 30% !important;}
+.section__bg--intro{background-image:url('/wp-content/themes/kristinmcgee/img/intro.jpg');background-position-y: 30% !important;}
 .section__bg--intro-overlay{background-image:url(../img/intro-overlay.png);background-position-y:00% !important;background-position-x: 0% !important;z-index:1;background-repeat:no-repeat;top:0%;height:150%;top:60%;}
 .section__bg--1{background-image:url('../img/section-1.jpg');height: 170%;top: inherit;height: 110%;background-position-y: 208% !important;}
 
